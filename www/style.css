@@ -1,0 +1,9 @@
+user_message {
+  font-style: italic;
+  font-weight: bold;
+  color: #0029F7;
+}
+      
+bot_message {
+  color: #000000;
+}
